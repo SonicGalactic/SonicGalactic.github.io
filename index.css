@@ -158,7 +158,8 @@
 
 .subtext {
   color: #edb0ff;
-  font-size: 10px;
+  font-size: 20px;
+  margin: 5px;
 }
 
 .circle {
@@ -334,7 +335,7 @@
 }
 
 .newsarticle-text {
-  font-size: 28px;
+  font-size: 26px;
   color: #ffffff;
 }
 
