@@ -156,6 +156,11 @@
   overflow: hidden;
 }
 
+.subtext {
+  color: #edb0ff;
+  font-size: 10px;
+}
+
 .circle {
   border: dashed 4px #675d9c;
   border-radius: 50%;
@@ -179,6 +184,12 @@
   width: 30%;
   left: 6%;
   box-shadow: 12px 12px #20174e;
+}
+
+.news-section {
+  width: 80%;
+  position: relative;
+  margin-bottom: 50px;
 }
 
 .skewed-div {
@@ -312,6 +323,18 @@
   font-family: nise-sega-sonic;
   font-size: 48px;
   text-align: center;
+  color: #ffffff;
+}
+
+.news-text {
+  font-family: nise-sega-sonic;
+  font-size: 36px;
+  text-align: center;
+  color: #20174e;
+}
+
+.newsarticle-text {
+  font-size: 28px;
   color: #ffffff;
 }
 
